@@ -86,7 +86,7 @@ namespace eRegister
             this.ResumeLayout(false);
 
         }
-
+      
         #endregion
 
         private System.Windows.Forms.Panel panel1;
